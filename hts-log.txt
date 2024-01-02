@@ -1,0 +1,43 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 02 Jan 2024 21:09:40 at https://themasquerade.online/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "tr, en, *" https://themasquerade.online/ -O1 "C:\Benim Web Sitem\aquaphobia" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:09:44	Error: 	"Not Found" (404) at link https://themasquerade.online/assets/images/favicon/apple-touch-icon.html (from https://themasquerade.online/)
+21:09:44	Error: 	"Not Found" (404) at link https://themasquerade.online/assets/images/favicon/favicon-32x32.html (from https://themasquerade.online/)
+21:09:44	Error: 	"Not Found" (404) at link https://themasquerade.online/assets/images/favicon/favicon-16x16.html (from https://themasquerade.online/)
+21:09:44	Error: 	"Not Found" (404) at link https://themasquerade.online/assets/images/favicon/safari-pinned-tab.html (from https://themasquerade.online/)
+21:09:44	Error: 	"Not Found" (404) at link https://themasquerade.online/favicon.html (from https://themasquerade.online/)
+21:09:50	Error: 	"Not Found" (404) at link https://themasquerade.online/site.js (from https://themasquerade.online/)
+21:09:50	Error: 	"Not Found" (404) at link https://themasquerade.online/s/19714/rawline-400.html (from https://themasquerade.online/rawline.css)
+21:09:50	Error: 	"Not Found" (404) at link https://themasquerade.online/s/19714/rawline-400i.html (from https://themasquerade.online/rawline.css)
+21:09:50	Error: 	"Not Found" (404) at link https://themasquerade.online/s/19714/rawline-100.html (from https://themasquerade.online/rawline.css)
+21:09:50	Error: 	"Not Found" (404) at link https://themasquerade.online/s/19714/rawline-100i.html (from https://themasquerade.online/rawline.css)
+21:09:50	Error: 	"Not Found" (404) at link https://themasquerade.online/s/19714/rawline-200.html (from https://themasquerade.online/rawline.css)
+21:09:50	Error: 	"Not Found" (404) at link https://themasquerade.online/s/19714/rawline-200i.html (from https://themasquerade.online/rawline.css)
+21:09:50	Error: 	"Not Found" (404) at link https://themasquerade.online/s/19714/rawline-300.html (from https://themasquerade.online/rawline.css)
+21:09:50	Error: 	"Not Found" (404) at link https://themasquerade.online/s/19714/rawline-300i.html (from https://themasquerade.online/rawline.css)
+21:09:50	Error: 	"Not Found" (404) at link https://themasquerade.online/s/19714/rawline-500.html (from https://themasquerade.online/rawline.css)
+21:09:50	Error: 	"Not Found" (404) at link https://themasquerade.online/s/19714/rawline-500i.html (from https://themasquerade.online/rawline.css)
+21:09:50	Error: 	"Not Found" (404) at link https://themasquerade.online/s/19714/rawline-600.html (from https://themasquerade.online/rawline.css)
+21:09:50	Error: 	"Not Found" (404) at link https://themasquerade.online/s/19714/rawline-600i.html (from https://themasquerade.online/rawline.css)
+21:09:50	Error: 	"Not Found" (404) at link https://themasquerade.online/s/19714/rawline-700.html (from https://themasquerade.online/rawline.css)
+21:09:50	Error: 	"Not Found" (404) at link https://themasquerade.online/s/19714/rawline-700i.html (from https://themasquerade.online/rawline.css)
+21:09:50	Error: 	"Not Found" (404) at link https://themasquerade.online/s/19714/rawline-800.html (from https://themasquerade.online/rawline.css)
+21:09:50	Error: 	"Not Found" (404) at link https://themasquerade.online/s/19714/rawline-800i.html (from https://themasquerade.online/rawline.css)
+21:09:50	Error: 	"Not Found" (404) at link https://themasquerade.online/s/19714/rawline-900.html (from https://themasquerade.online/rawline.css)
+21:09:50	Error: 	"Not Found" (404) at link https://themasquerade.online/s/19714/rawline-900i.html (from https://themasquerade.online/rawline.css)
+21:09:50	Error: 	"Multiple Choices" (300) at link https://themasquerade.online/css2.css (from https://themasquerade.online/css2.html)
+21:09:50	Error: 	"Not Found" (404) at link https://themasquerade.online/webfonts/fa-brands-400.html (from https://themasquerade.online/all.min.css)
+21:09:50	Error: 	"Not Found" (404) at link https://themasquerade.online/webfonts/fa-brands-401.html (from https://themasquerade.online/all.min.css)
+21:09:50	Error: 	"Not Found" (404) at link https://themasquerade.online/webfonts/fa-regular-400.html (from https://themasquerade.online/all.min.css)
+21:09:50	Error: 	"Not Found" (404) at link https://themasquerade.online/webfonts/fa-regular-401.html (from https://themasquerade.online/all.min.css)
+21:09:50	Error: 	"Not Found" (404) at link https://themasquerade.online/webfonts/fa-solid-900.html (from https://themasquerade.online/all.min.css)
+21:09:50	Error: 	"Not Found" (404) at link https://themasquerade.online/webfonts/fa-solid-901.html (from https://themasquerade.online/all.min.css)
+21:09:50	Error: 	"Multiple Choices" (300) at link https://themasquerade.online/reset.css (from https://themasquerade.online/reset.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 seconds : 42 links scanned, 9 files written (772905 bytes overall) [706746 bytes received at 70674 bytes/sec], 172956 bytes transferred using HTTP compression in 37 files, ratio 29%, 10.5 requests per connection
+(32 errors, 0 warnings, 0 messages)
